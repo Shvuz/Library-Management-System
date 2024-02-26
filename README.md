@@ -1,4 +1,4 @@
-Library Application
+**Library Application**
 
 This library application provides users with an interface to perform operations such as listing books, adding books, and removing books. Below, you can find more information on how to use the application.
 
